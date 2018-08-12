@@ -7,4 +7,4 @@ Go to your browser and type localhost/zipper [where zipper is the name of the fo
 
 Fill the fields as shown in the browser and click send button
 
-Check the zippedFiles directory in the zipper directory in your www directory
+Check the zippedFiles directory in the zipper directory in your www directory for the .zip file
